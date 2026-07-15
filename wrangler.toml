@@ -1,0 +1,6 @@
+name = "my-zalo-webhook"
+main = "index.js"
+compatibility_date = "2025-01-01"
+
+# Nếu bạn muốn gắn domain rever.io.vn trực tiếp, dùng route:
+# route = { pattern = "webhook.rever.io.vn/*", zone_name = "rever.io.vn" }
