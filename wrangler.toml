@@ -1,4 +1,4 @@
-name = "my-zalo-webhook"
+name = "sendzalo-message"
 main = "index.js"
 compatibility_date = "2025-01-01"
 
